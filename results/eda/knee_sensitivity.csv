@@ -1,0 +1,10 @@
+batch,window,count,median
+Batch 1,11,45,610.0
+Batch 2,11,39,340.0
+Batch 3,11,44,817.5
+Batch 1,21,45,610.0
+Batch 2,21,39,340.0
+Batch 3,21,44,817.5
+Batch 1,41,45,605.0
+Batch 2,41,39,335.0
+Batch 3,41,44,817.5

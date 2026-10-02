@@ -1,0 +1,4 @@
+batch,placeholder_rows,endpoint_high_capacity_labeled,min_early_rows,incomplete_delta,IR_all_zero_cells,unparsed_policy,QD_over_1_3,nonfinite_QD
+Batch 1,46,10,99,0,0,0,2,0
+Batch 2,0,0,99,0,7,4,11,0
+Batch 3,0,0,99,0,0,0,0,0

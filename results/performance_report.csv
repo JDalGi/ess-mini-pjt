@@ -1,0 +1,7 @@
+구분,MAPE (%),비고
+Train (Batch 1 CV),8.403543397081988,모델 선택에 사용한 그룹 CV 평균; 독립 성능 추정 아님
+Valid (Batch 1 Hold-out),6.5223077423332425,CV와 정책 그룹 중복 없이 분리; 재조정에 사용하지 않음
+Test (Batch 2),26.0920511186382,설정 고정 후 Batch 1 전체 재학습
+Gap (Train-Valid),-1.8812356547487452,Valid−Train (%p); (+): 과적합 의심
+Gap (Valid-Test),19.569743376304956,Test−Valid (%p); (+): 배치 간 일반화 저하 의심
+Gap (Target-Test),16.9920511186382,Test−9.1 (%p); Target: 원논문 비교 목표 9.1%

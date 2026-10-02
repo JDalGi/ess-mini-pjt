@@ -1,0 +1,22 @@
+{
+  "input_files": {
+    "Batch 1": "2017-05-12_batchdata_updated_struct_errorcorrect.mat",
+    "Batch 2": "2018-02-20_batchdata_updated_struct_errorcorrect.mat",
+    "Batch 3": "2018-04-12_batchdata_updated_struct_errorcorrect.mat"
+  },
+  "raw_cells": 139,
+  "labeled_cells": 129,
+  "early_complete_cells": 139,
+  "delta_complete_cells": 139,
+  "summary_rows": 116722,
+  "analysis_unit": "one battery cell",
+  "sources": [
+    "notebooks/00_Scratch.ipynb",
+    "data/*.mat"
+  ],
+  "ignored_directories": [
+    "report",
+    "src_initial",
+    "tests"
+  ]
+}

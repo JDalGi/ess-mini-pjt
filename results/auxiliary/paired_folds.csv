@@ -1,0 +1,9 @@
+variant,reference,improved_folds,total_folds,mean_gap_pp
+B,A,4,5,-1.8404625728964903
+B_QD_change,B,2,5,0.5269652170739624
+B_QD_relative,B,2,5,0.5382456948315403
+A_IR_raw,A,3,5,-0.10800004437079949
+A_IR_nonzero,A_IR_raw,1,5,0.19756965325166612
+A_chargetime,A,1,5,0.447032987209964
+B_OLS,B,4,5,-0.7023538201826073
+endpoint_excluded,endpoint_reference,3,5,-0.027702353254933244

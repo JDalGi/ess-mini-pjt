@@ -1,0 +1,24 @@
+batch,a,b,spearman
+Batch 1,delta_log_var,delta_mean,-0.9708911501695959
+Batch 1,delta_log_var,delta_min,-0.9866790009250693
+Batch 1,delta_log_var,delta_std,1.0
+Batch 1,delta_mean,delta_min,0.9887758248535307
+Batch 1,delta_mean,delta_std,-0.9708911501695959
+Batch 1,delta_min,delta_std,-0.9866790009250693
+Batch 1,QD_mean,QD_median,0.9287079864323158
+Batch 1,Tavg_mean,Tmax_mean,0.950786308973173
+Batch 2,delta_log_var,delta_mean,-0.9696356275303644
+Batch 2,delta_log_var,delta_min,-0.9850202429149799
+Batch 2,delta_log_var,delta_std,1.0
+Batch 2,delta_mean,delta_min,0.9497975708502024
+Batch 2,delta_mean,delta_std,-0.9696356275303644
+Batch 2,delta_min,delta_std,-0.9850202429149799
+Batch 2,QD_mean,QD_median,0.9949392712550609
+Batch 3,delta_log_var,delta_mean,-0.9727977448907681
+Batch 3,delta_log_var,delta_min,-0.9837914023960537
+Batch 3,delta_log_var,delta_std,1.0
+Batch 3,delta_mean,delta_min,0.9829457364341084
+Batch 3,delta_mean,delta_std,-0.9727977448907681
+Batch 3,delta_min,delta_std,-0.9837914023960537
+Batch 3,QD_mean,QD_median,0.9998590556730093
+Batch 3,Tavg_mean,Tmax_mean,0.976321353065539
